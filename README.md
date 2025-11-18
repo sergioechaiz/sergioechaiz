@@ -11,7 +11,7 @@ La tecnología no es solo una herramienta para mí; es una parte fundamental de 
 - 🤖 Inteligencia Artificial (IA)
 - 🏭 Internet de las Cosas (IoT)
 
-## 🎯 Vamos a Compartir
+## 🎯 ¡Vamos a Crear!
 ✨ ¡A experimentar, romper cosas y aprender en el camino!
 👨‍💻 Siéntete libre de explorar, comentar y compartir tus ideas 😊
 
