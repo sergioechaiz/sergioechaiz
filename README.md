@@ -24,9 +24,6 @@ La tecnología no es solo una herramienta para mí; es una parte fundamental de 
     <a href="https://www.youtube.com/@sergioechaiz">
       <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube">
     </a>
-    <a href="https://www.twitch.tv/sergio_echaiz">
-      <img src="https://img.shields.io/badge/Twitch-Watch-purple?style=for-the-badge&logo=twitch" alt="Twitch">
-    </a>
     <a href="https://www.twitter.com/sergio_echaiz">
       <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter" alt="X (Twitter)">
     </a>
