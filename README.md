@@ -44,4 +44,4 @@ La tecnología no es solo una herramienta para mí; es una parte fundamental de 
 </div>
 
 
-Note: 🚧 Working on my personal webpage to showcase more technical content, stay tuned! 🛠️
+Nota: 🚧 Estoy trabajando en mi página personal para mostrar mis proyectos personales, ¡estate atento! 🛠️
