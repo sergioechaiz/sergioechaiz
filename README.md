@@ -1,22 +1,22 @@
-<h1 align="center">Hi, Welcome to my GitHub profile! I’m Sergio Echaiz👋</h1>
+<h1 align="center">¡Hola, bienvenido a mi perfil de GitHub! Soy Sergio Echaiz 👋</h1>
 <p align="center">
 </p>
 
-## 🧑‍💻 About Me
-Technology is not just a tool for me; it’s a fundamental part of my life and something I’m deeply passionate about. I strongly believe that knowledge grows when shared, and I see this repository as a space for collaboration, learning, and growth. I enjoy exploring, sharing ideas, discovering new projects, and connecting with others to create something truly useful. I really appreciate your visit and look forward to connecting with you!
+## 🧑‍💻 Sobre mí
+La tecnología no es solo una herramienta para mí; es una parte fundamental de mi vida y algo que me apasiona profundamente. Creo firmemente que el conocimiento crece cuando se comparte, y veo este repositorio como un espacio para colaborar, aprender y desarrollarnos. Disfruto explorando, compartiendo ideas, descubriendo nuevos proyectos y conectando con otras personas para crear algo realmente útil. ¡Aprecio mucho tu visita y espero poder conectar contigo!
 
-## 💡 Interesting Areas
-- 🚀 Network Automation & Programmability
-- 🔐 Cybersecurity
-- 🤖 Artificial Intelligence (AI)
-- 🏭 Internet of Things (IoT)
+## 💡 Áreas de Interés
+- 🔐 Ciberseguridad
+- 🚀 Automatización y Programabilidad de Redes
+- 🤖 Inteligencia Artificial (IA)
+- 🏭 Internet de las Cosas (IoT)
 
-## 🎯 Let's Have Fun
-✨ Let’s innovate, collaborate, and make a difference!
-👨‍💻 Feel free to explore, comment, and share your ideas 😊
+## 🎯 Vamos a Compartir
+✨ ¡A experimentar, romper cosas y aprender en el camino!
+👨‍💻 Siéntete libre de explorar, comentar y compartir tus ideas 😊
 
 <div align="left">
-  <h2>🌐 Let's Connect!</h2>
+  <h2>🌐 ¡Conectemos!</h2>
   <p>
     <a href="https://www.linkedin.com/in/sergioechaiz">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
